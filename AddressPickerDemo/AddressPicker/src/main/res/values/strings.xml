@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AddressPicker</string>
+    <string name="googleApiFail">Google Places API connection failed with error code:</string>
+
+</resources>

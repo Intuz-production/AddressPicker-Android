@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AddressPickerDemo</string>
+    <string name="show_address_picker">Show Address Picker</string>
+</resources>

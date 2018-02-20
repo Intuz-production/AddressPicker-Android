@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<declare-styleable name="MyCustomView">
+    <attr name="android:textColor"/>
+    <attr name="buttonColor" format="reference|color"/>
+    <attr name="buttonText" format="string" />
+</declare-styleable>
+</resources>
