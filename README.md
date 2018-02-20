@@ -13,7 +13,7 @@ Please follow the below steps to integrate this control in your project.
 - Can Customize according to requirement.
 
 <div style="float:left">
-<img src="Screenshots/Screen1.jpg" width="200">
+<img src="Screenshots/Screen1.png" width="200">
 <img src="Screenshots/Screen2.png" width="200">
 <img src="Screenshots/Screen3.png" width="200">
 </div>
