@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">AddressPickerDemo</string>
     <string name="show_address_picker">Show Address Picker</string>
-    <string name="api_key">AIzaSyCjAwYDa634W3pXngJbr9lBWsLnSgNkEho</string>
+    <string name="api_key">your_google_api_key</string>
 </resources>
