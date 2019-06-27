@@ -1,1 +1,1 @@
-include ':app', ':AddressPicker'
+include ':app'

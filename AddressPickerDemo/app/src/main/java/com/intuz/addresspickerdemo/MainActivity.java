@@ -20,7 +20,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.intuz.addresspicker.LocationPickerActivity;
 
 public class MainActivity extends Activity implements View.OnClickListener {
 

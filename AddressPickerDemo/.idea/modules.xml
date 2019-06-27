@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AddressPicker/AddressPicker.iml" filepath="$PROJECT_DIR$/AddressPicker/AddressPicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/AddressPickerDemo.iml" filepath="$PROJECT_DIR$/.idea/AddressPickerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/AddressPickerDemo.iml" filepath="$PROJECT_DIR$/AddressPickerDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

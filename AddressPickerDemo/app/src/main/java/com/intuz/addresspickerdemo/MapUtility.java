@@ -13,7 +13,7 @@
 //  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-package com.intuz.addresspicker;
+package com.intuz.addresspickerdemo;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -31,7 +31,7 @@ public class MapUtility {
     public static final String MAP_URL = "https://maps.googleapis.com";
 
     public static Location currentLocation = null;
-    private static Dialog popupWindow;
+    public static Dialog popupWindow;
 
     public static boolean isNetworkAvailable(Context context) {
         NetworkInfo activeNetworkInfo = null;
