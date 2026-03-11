@@ -1,4 +1,7 @@
-<h1>Introduction</h1>
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [Android app development](https://www.intuz.com/android-development)
+and [mobile app development](https://www.intuz.com/custom-app-development).
+<br><br>
 INTUZ is presenting an interesting  Address Picker component to integrate inside your Native Android based application. 
 Address Picker is a simple component, which lets you pick a location from map and search using Google Places API. 
 You will get a latitude, longitude and full address for selected location.
